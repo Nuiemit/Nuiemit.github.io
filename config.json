@@ -3,5 +3,6 @@
     "subTitle":"空倉庫",
     "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
     "GMEEK_VERSION":"last",
-    "UTC":8
+    "UTC":8,
+    "showPostSource":1
 }
